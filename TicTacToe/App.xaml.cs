@@ -1,8 +1,5 @@
-﻿using System;
-using TicTacToe.Services;
-using TicTacToe.Views;
+﻿using TicTacToe.Views;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace TicTacToe
 {
@@ -13,8 +10,7 @@ namespace TicTacToe
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new TicTacToePage();
         }
 
         protected override void OnStart()
