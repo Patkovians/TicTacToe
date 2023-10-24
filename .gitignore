@@ -89,3 +89,5 @@ ehthumbs.db
 *.tmp
 *.bak
 *.swm
+
+.vs
