@@ -1,0 +1,91 @@
+## ---------------------
+## Xamarin
+## ---------------------
+
+# User-specific settings
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbnails.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Rider directories
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Tye
+.tye/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Xamarin
+**/bin/
+**/obj/
+**/*.bak
+**/TestResults/
+**/packages/
+
+# Uncomment if you want to exclude the nuget packages:
+# *.nupkg  
+
+# VS for Mac
+.vscode/
+.history/
+
+# Rider
+.idea/
+
+# User-specific
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows
+*.dbmdl
+*.dbproj.schemaview
+*_Backup*/
+*ServiceFabricBackup/
+*.cache
+*.swp
+*.logs
+*.DS_Store
+*.thumbcache.db
+*.db-shm
+*.db-wal
+*.db
+*.log
+*.tmp
+*.bak
+*.swm
